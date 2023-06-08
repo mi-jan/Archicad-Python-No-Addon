@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Profile guid="AF8F27AD-247B-2140-A4B1-E5EDF944282F" name="JM Work Environment Standard 26" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Profile/2005/01">
+	<SchemeRef componentType="AD074D1A-BFE2-48B7-B478-54652249B51D" componentTypeName="Tools" guid="0F6FF07E-9CF6-1A4F-9FBD-DBDCE5ABDD1E" name="JM Tool Schemes 26"/>
+	<SchemeRef componentType="24B978B9-B65D-4405-AF78-3990DCBEB13F" componentTypeName="Company Standards" guid="C800D610-C3F0-F749-AF07-2D1E4A2DB397" name="JM Company Standards 26"/>
+	<SchemeRef componentType="D3EC122F-0A7F-4B14-94D0-0A6B7FFA66C3" componentTypeName="User Preferences" guid="AF144B31-AA62-5248-A5EB-9D57CFD07055" name="JM User Preferences 26"/>
+	<SchemeRef componentType="F078DB9E-D588-405D-9693-06F9D70B27CF" componentTypeName="Shortcut" guid="073482AF-180A-9446-B14C-111959FEAD0A" name="JM Keyboard Shortcuts 26"/>
+	<SchemeRef componentType="6FCD168F-A26C-4547-AF9D-ED9A5FC54DD7" componentTypeName="Command Layout" guid="2F43FBA2-4C2F-B044-ADB1-F31119B11A1A" name="JM Commands 26"/>
+	<SchemeRef componentType="40C3FF18-F1CE-4430-92B2-F6631BD465D3" componentTypeName="Workspace" guid="FE757501-F8AD-2D46-9F0D-F0E71A524764" name="JM Workspace 26"/>
+</Profile>
